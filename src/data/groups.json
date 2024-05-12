@@ -1,0 +1,43 @@
+[
+  {
+    "no": 1,
+    "group": "banquet",
+    "name": "bq",
+    "isActive": true
+  },
+
+  {
+    "no": 2,
+    "group": "entertainment",
+    "name": "ent",
+    "isActive": true
+  },
+
+  {
+    "no": 3,
+    "group": "health & wellness",
+    "name": "h & w",
+    "isActive": false
+  },
+
+  {
+    "no": 4,
+    "group": "indoor gaming",
+    "name": "ig",
+    "isActive": true
+  },
+
+  {
+    "no": 5,
+    "group": "room stay",
+    "name": "rs",
+    "isActive": true
+  },
+
+  {
+    "no": 6,
+    "group": "urban kitchen",
+    "name": "ukr",
+    "isActive": true
+  }
+]
